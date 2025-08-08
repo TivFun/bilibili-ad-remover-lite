@@ -11,5 +11,6 @@
 ### 安装方法
 
 1. 点击[这里](./bilibili-ad-blocker.user.js)查看脚本。
-
-**注意：** 通过文件安装的方式在 Firefox 中是临时的。
+2. 打开Tampermonkey
+3. 创建新脚本
+4. 复制粘贴前文提到的脚本内容
