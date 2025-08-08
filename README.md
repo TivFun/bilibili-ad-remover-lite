@@ -11,5 +11,6 @@ A Firefox/Chrome extension for removing bilibili ads.
 ### Installation
 
 1. Click [here](./bilibili-ad-blocker.user.js) to view the script.
-
-**Note:** Installation via files is temporary for Firefox.
+2. Open Tampermonkey
+3. Create a new script
+4. Copy & past the script
